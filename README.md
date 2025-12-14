@@ -1,6 +1,5 @@
 # assignment_4_Tanya_Iryna
 
-# Deep Learning Assignment 4
 ---
 
 ## Results Summary
