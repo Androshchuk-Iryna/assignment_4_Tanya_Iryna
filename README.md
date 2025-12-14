@@ -1,11 +1,6 @@
 # assignment_4_Tanya_Iryna
 
-# Deep Learning Assignment 4: Ukrainian Location Extraction (NER)
-
-**Author:** Rina  
-**Date:** December 2024  
-**Course:** Deep Learning, Kyiv School of Economics
-
+# Deep Learning Assignment 4
 ---
 
 ## Results Summary
@@ -15,7 +10,6 @@
 | mBERT | 0.8512 |
 | XLM-RoBERTa | 0.8698 | 
 | mDeBERTa v3 | 0.8821 |
-| **Ensemble** | 0.8934 |
 
 
 ##  Data Insights
